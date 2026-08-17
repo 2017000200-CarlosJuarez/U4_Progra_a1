@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\bin\Debug\net8.0-windows\Ejercicio_en_Clase.exe
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\bin\Debug\net8.0-windows\Ejercicio_en_Clase.deps.json
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\bin\Debug\net8.0-windows\Ejercicio_en_Clase.runtimeconfig.json
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\bin\Debug\net8.0-windows\Ejercicio_en_Clase.dll
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\bin\Debug\net8.0-windows\Ejercicio_en_Clase.pdb
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.Form1.resources
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.AssemblyInfo.cs
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.dll
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\refint\Ejercicio_en_Clase.dll
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.pdb
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\Ejercicio_en_Clase.genruntimeconfig.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio_en_Clase\Ejercicio_en_Clase\obj\Debug\net8.0-windows\ref\Ejercicio_en_Clase.dll
